@@ -12,6 +12,7 @@ Project:  SIMPLE CALCULATOR
 Task-1: Create a Python program that acts as a basic calculator. It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication, division). Then, it should perform the selected operation and display the result to the user
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/dd8a24cd-b70a-40c8-a276-c42220bfc8e8)
 
 Objective:
